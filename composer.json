@@ -1,0 +1,12 @@
+{
+    "name": "ilya/resume",
+    "require-dev": {
+        "illuminate/database": "^5.7"
+    },
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Resume\\": "classes/"
+        }
+    }
+}
